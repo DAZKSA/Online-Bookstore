@@ -9,7 +9,7 @@
     <header>
         <h1>About Us</h1>
         <nav>
-            <a href="index.jsp">Home</a>     /* الصفحات /*  
+            <a href="index.jsp">Home</a>
             <a href="addBook.jsp">Add New Item</a>
             <a href="manageBooks.jsp">Manage Books</a>
             <a href="about.jsp">About Us</a>
@@ -17,7 +17,7 @@
     </header>
 
     <main>
-        <h2>Our Team                                  /* من نحن /*  
+        <h2>Our Team
         jazan Store Publishing and Distribution Library is a limited liability company specialized in the field of book distribution in all countries of the world, and it has several warehouses and administrative centers in Saudi Arabia and abroad.
         </h2>
         <div class="about-content">
@@ -25,10 +25,10 @@
             <div class="team-info">
                 <h3>Our Dedicated Team</h3>
                 <ul>
-                    <li><strong>Abdualrhman Fawaz </strong> - ID: 202201223</li>    /*اسماء الطلاب /*
+                    <li><strong>Abdualrhman Fawaz </strong> - ID: 202201223</li>
                     <li><strong>Abdualrhman Howtan</strong> - ID: 202209273</li>
                     <li><strong>Abdualrhman Aqili</strong> - ID: 202207321</li>
-                    <li><strong>Ahmed Ali</strong> - ID: 104</li>
+                    <li><strong>Ahmed Ali</strong> - ID: 202001058</li>
                     <li><strong>Turki Sahari</strong> - ID: 105</li>
                 </ul>
             </div>
