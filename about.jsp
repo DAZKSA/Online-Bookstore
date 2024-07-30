@@ -27,7 +27,7 @@
                 <ul>
                     <li><strong>Abdualrhman Fawaz </strong> - ID: 202201223</li>    /*اسماء الطلاب /*
                     <li><strong>Abdualrhman Howtan</strong> - ID: 202209273</li>
-                    <li><strong>Abdualrhman Aqili</strong> - ID: 103</li>
+                    <li><strong>Abdualrhman Aqili</strong> - ID: 202207321</li>
                     <li><strong>Ahmed Ali</strong> - ID: 104</li>
                     <li><strong>Turki Sahari</strong> - ID: 105</li>
                 </ul>
