@@ -27,7 +27,7 @@
         </form>
         <div class="search-results">
             <% 
-                // Define book data (in a real application, this would be from a database)
+                // Define book تعريف الكتب 
                 String[][] books = {
                     {"To Lord of the Flies", "William Golding", "https://cdn.discordapp.com/attachments/1244752611442167979/1267674082728607867/7624.png?ex=66a9a4fd&is=66a8537d&hm=2fddd933cd0fc45a03d6c62e076c901e23b52683e3509edc21dc318efa9e707b&"},
                     {"To Kill a Mockingbird", "Harper Lee", "https://cdn.discordapp.com/attachments/1244752611442167979/1267672612939763744/2657.png?ex=66a9a39f&is=66a8521f&hm=b6c351acaa13061a967a25e682c1a2a0c61333922c0d3f12d8e093bb9c6fcd6d&"},
@@ -52,7 +52,7 @@
                             out.println("<p>" + book[1] + "</p>");
                             out.println("</div>");
                             found = true;
-                            break; // Display only the first matching book
+                            break; // Display يعرض الكتاب 
                         }
                     }
                     if (!found) {
