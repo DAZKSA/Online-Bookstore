@@ -9,7 +9,7 @@
     <header>
         <h1>About Us</h1>
         <nav>
-            <a href="index.jsp">Home</a>
+            <a href="index.jsp">Home</a>     /* الصفحات /*  
             <a href="addBook.jsp">Add New Item</a>
             <a href="manageBooks.jsp">Manage Books</a>
             <a href="about.jsp">About Us</a>
@@ -17,7 +17,7 @@
     </header>
 
     <main>
-        <h2>Our Team
+        <h2>Our Team                                  /* من نحن /*  
         jazan Store Publishing and Distribution Library is a limited liability company specialized in the field of book distribution in all countries of the world, and it has several warehouses and administrative centers in Saudi Arabia and abroad.
         </h2>
         <div class="about-content">
