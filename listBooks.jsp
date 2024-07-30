@@ -72,7 +72,6 @@
                 <h3>To Lord of the Flies</h3>
                 <p>To William Golding</p>
             </div>
-<div class="featured-books">
             <div class="book">
                 <img src="https://cdn.discordapp.com/attachments/1244752611442167979/1267672612939763744/2657.png?ex=66a9a39f&is=66a8521f&hm=b6c351acaa13061a967a25e682c1a2a0c61333922c0d3f12d8e093bb9c6fcd6d&" alt="Book 1">
                 <h3>To Kill a Mockingbird</h3>
