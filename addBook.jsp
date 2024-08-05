@@ -15,7 +15,8 @@
     </header>
 
     <main>
-        <form action="addBookServlet" method="post">
+        <form action="AddBookServlet" method="POST">
+
             <label for="title">Title:</label>
             <input type="text" id="title" name="title" required>
 
@@ -23,7 +24,9 @@
             <input type="text" id="author" name="author" required>
 
             <button type="submit">Add Book</button>
+
         </form>
+
     </main>
     <footer>
         <p>&copy; Jazan Online Bookstore</p>
