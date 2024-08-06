@@ -1,6 +1,3 @@
-            <!-- 202207321 -->
-            <!-- 202207321 -->
-
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
@@ -15,7 +12,7 @@ public class BookDAO {
 
     public List<Book> getAllBooks() {
         List<Book> books = new ArrayList<>();
-        String sql = "SELECT * FROM books";
+        String sql = "SELECT * FROM books"; // Change table name if necessary
 
         try (Connection conn = getConnection(); Statement stmt = conn.createStatement(); ResultSet rs = stmt.executeQuery(sql)) {
             while (rs.next()) {
@@ -25,7 +22,6 @@ public class BookDAO {
                 book.setAuthor(rs.getString("author"));
                 books.add(book);
             }
-            
         } catch (SQLException e) {
             e.printStackTrace();
         }
